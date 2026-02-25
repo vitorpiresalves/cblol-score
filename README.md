@@ -46,7 +46,7 @@ Combinação dos três scores anteriores com pesos calculados automaticamente pe
 
 ## Observações
 
-Os scores são relativos ao dataset utilizado e comparam jogadores dentro da mesma liga e split. Não é recomendado comparar scores entre ligas diferentes ou splits diferentes, pois patches e meta impactam diretamente as estatísticas.
+Os scores são relativos ao dataset utilizado e comparam jogadores dentro da mesma liga e split. Não é recomendado comparar scores entre ligas diferentes ou splits diferentes, pois patches e meta impactam diretamente as estatísticas. Os cálculos foram realizados antes da grande final, considerando os jogos disputados até 22 de fevereiro de 2026.
 
 ## Contato
 
