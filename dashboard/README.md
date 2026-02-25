@@ -19,40 +19,40 @@ O dashboard tem quatro elementos principais:
 ### Visão geral
 Visão completa sem filtro de posição, mostrando todos os jogadores e o ranking geral de times.
 
-![Visão Geral](prints/1dashboardpreview.png)
+![Visão Geral](1dashboardpreview.png)
 
 ### Top
 Filtro aplicado nos toplaners. RED Canids, LOUD e LØS lideram o Team Ranking pela posição. fNb, xyno e Zest aparecem no topo do Score Final.
 
-![Top Laners](prints/top.png)
+![Top Laners](top.png)
 
 ### Jungle
 Filtro aplicado nos junglers. FURIA domina o Team Ranking com score, puxado pelo desempenho de Tatu, que aparece isolado no topo do Score Final muito acima dos demais.
 
-![Jungle](prints/jungle.png)
+![Jungle](jungle.png)
 
 Destaque individual de Tatu com todos os cartões em verde, evidenciando que ele está acima da média da role em todos os scores simultaneamente.
 
-![Tatu Destaque](prints/tatujng.png)
+![Tatu Destaque](tatujng.png)
 
 ### Mid
 Filtro aplicado nos midlaners. RED Canids lidera o Team Ranking. Kaze e Tutsz lideram o Score Final.
 
-![Mid Laners](prints/mid.png)
+![Mid Laners](mid.png)
 
 Comparativo que evidencia a mudança de roster da LOUD no meio do campeonato. Envy, que assumiu a vaga, terminou com score médio superior ao de Mago, seu antecessor, aparecendo rankeado acima dele no Score Final.
 
-![Mid Comparativo](prints/midcomparativo.png)
+![Mid Comparativo](midcomparativo.png)
 
 ### Bot
 Filtro aplicado nos atiradores. RED Canids e FURIA empatam no Team Ranking. Trigger, Rabelo e Ayu lideram o Score Final.
 
-![Bot Laners](prints/bot.png)
+![Bot Laners](bot.png)
 
 ### Support
 Filtro aplicado nos suportes. FURIA e RED Canids lideram o Team Ranking. JoJo e frosty aparecem no topo do Score Final.
 
-![Suportes](prints/sup.png)
+![Suportes](sup.png)
 
 ## Observação
 Os cálculos foram realizados antes da grande final, considerando os jogos disputados até 22 de fevereiro de 2026.
