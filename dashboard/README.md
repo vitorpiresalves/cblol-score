@@ -1,4 +1,4 @@
-# Dashboard — cblol-score
+# Dashboard - cblol-score
 
 Visualização interativa dos scores calculados pelo notebook, construída no Power BI. O dashboard é composto por uma única página com filtro de posição, permitindo navegar entre as roles e comparar jogadores e times.
 
