@@ -12,7 +12,7 @@ O dashboard tem quatro elementos principais:
 
 **Team Ranking** — ranking dos times baseado na média do Score Final dos jogadores de cada time, filtrado pela posição selecionada. Mostra como cada organização se sai em cada role específica.
 
-**Score Final** — ranking individual dos jogadores da posição selecionada, ordenado pelo Score Final de 50 a 100. A linha pontilhada verde representa a média da role.
+**Score Final** — ranking individual dos jogadores da posição selecionada, ordenado pelo Score Final de 50 a 100. A linha pontilhada verde representa a mediana da role.
 
 ## Prints
 
