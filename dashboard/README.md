@@ -14,13 +14,6 @@ O dashboard tem quatro elementos principais:
 
 **Score Final** — ranking individual dos jogadores da posição selecionada, ordenado pelo Score Final de 50 a 100. A linha pontilhada verde representa a mediana da role.
 
-## Prints
-
-### Visão geral
-Visão completa sem filtro de posição, mostrando todos os jogadores e o ranking geral de times.
-
-![Visão Geral](1dashboardpreview.png)
-
 ### Top
 Filtro aplicado nos toplaners. RED Canids, LOUD e LØS lideram o Team Ranking pela posição. fNb, xyno e Zest aparecem no topo do Score Final.
 
